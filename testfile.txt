@@ -1,0 +1,8 @@
+20:04:43.797374 IP 192.168.7.50 > evangelio-ubuntuserver: ICMP echo request, id 1, seq 273, length 40
+20:04:43.797398 IP evangelio-ubuntuserver > 192.168.7.50: ICMP echo reply, id 1, seq 273, length 40
+20:04:44.795065 IP 192.168.7.50 > evangelio-ubuntuserver: ICMP echo request, id 1, seq 274, length 40
+20:04:44.795087 IP evangelio-ubuntuserver > 192.168.7.50: ICMP echo reply, id 1, seq 274, length 40
+20:04:45.795833 IP 192.168.7.50 > evangelio-ubuntuserver: ICMP echo request, id 1, seq 275, length 40
+20:04:45.795857 IP evangelio-ubuntuserver > 192.168.7.50: ICMP echo reply, id 1, seq 275, length 40
+20:04:46.796859 IP 192.168.7.50 > evangelio-ubuntuserver: ICMP echo request, id 1, seq 276, length 40
+20:04:46.796881 IP evangelio-ubuntuserver > 192.168.7.50: ICMP echo reply, id 1, seq 276, length 40
